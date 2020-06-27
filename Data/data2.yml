@@ -1,0 +1,9 @@
+info: &data
+  name: "haha"
+  age: "18"
+address: &data1
+  <<: *data
+  address: "hahah"
+aa:
+  <<: *data1
+  hah: "aa"

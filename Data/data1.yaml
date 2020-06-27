@@ -1,0 +1,29 @@
+
+# 注释符号
+# name: "haha"
+# Name: "hahaha"
+
+# 对象第一种写法
+# info1: {"name":"haha","Name":"hahaha"}
+# 对象第二种写法：
+# info2:
+  #name: "ahah"
+  #Name: "hahah"
+
+# 数组
+#data:
+  #- 1
+  #- 2
+# json格式{'info': [{'name': 'haha'}, {'age': '18'}]}
+#info:
+  #- name: "haha"
+ #- age: "18"
+
+# 空类型
+# value:
+# value1: None   # 不支持
+# value2: null
+
+# 日期类型
+date: 2020-11-11 11:11:11
+date1: 2020-01-01
